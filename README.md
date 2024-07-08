@@ -21,7 +21,7 @@ flutter upgrade
 Clone the repository or do this
 
 ```bash
-git clone https://github.com/Scala-Net/mobile.git
+git clone https://github.com/ArthourVaSa/app_list_images
 ```
 
 Then we need to run these commands
